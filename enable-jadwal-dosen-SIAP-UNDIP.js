@@ -7,6 +7,7 @@
 // @description  Enable "Mata Kuliah" and "Kelas" in Jadwal Dosen SIAP UNDIP
 // @description:id  Menambahkan baris "Mata Kuliah" dan "Kelas" di menu Jadwal Dosen SIAP UNDIP
 // @author FADHIL PRAWIRA
+// @updateURL https://raw.githubusercontent.com/FadhilPrawira/jadwal-dosen-SIAP-UNDIP/main/enable-jadwal-dosen-SIAP-UNDIP.js
 // ==/UserScript==
 
 
