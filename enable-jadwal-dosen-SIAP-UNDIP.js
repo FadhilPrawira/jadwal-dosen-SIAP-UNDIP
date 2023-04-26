@@ -10,7 +10,7 @@
 // @updateURL https://raw.githubusercontent.com/FadhilPrawira/jadwal-dosen-SIAP-UNDIP/main/enable-jadwal-dosen-SIAP-UNDIP.js
 // ==/UserScript==
 
-
+// Run script after "space" button pressed
 document.addEventListener("keydown", function(event) {
     if (event.code === "Space") {
         runScript();
