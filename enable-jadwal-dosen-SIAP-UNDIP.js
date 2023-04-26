@@ -3,6 +3,9 @@
 // @namespace Script Runner Pro
 // @match *://*/*
 // @grant none
+// @version 1.0
+// @description  Enable "Mata Kuliah" and "Kelas" in Jadwal Dosen SIAP UNDIP
+// @author FADHIL PRAWIRA
 // ==/UserScript==
 
 
